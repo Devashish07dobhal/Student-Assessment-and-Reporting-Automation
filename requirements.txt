@@ -1,0 +1,23 @@
+# Data Processing
+pandas
+numpy
+openpyxl
+
+# PDF Generation
+reportlab
+
+# Visualization
+matplotlib
+seaborn
+
+# Environment Variables
+python-dotenv
+
+# Email Handling
+secure-smtplib
+
+# Logging and Utilities
+tqdm
+
+# Date and Time Utilities
+python-dateutil
