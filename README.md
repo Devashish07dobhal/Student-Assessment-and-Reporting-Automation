@@ -1,4 +1,4 @@
-# 🎓 AI Student Assessment System
+# 🎓 Student Assessment and Reporting Automation
 
 An end-to-end AI-powered student assessment and grade management system developed using **Python**. The system automates quiz processing, grade calculation, report generation, PDF grade cards, analytics, charts, email notifications, and an interactive Streamlit dashboard.
 
@@ -6,7 +6,7 @@ An end-to-end AI-powered student assessment and grade management system develope
 
 ## 📌 Project Overview
 
-The AI Student Assessment System is designed to automate the complete student evaluation process.
+The Student Assessment and Reporting Automation is designed to automate the complete student evaluation process.
 
 Instead of manually calculating grades and preparing reports, the system:
 
