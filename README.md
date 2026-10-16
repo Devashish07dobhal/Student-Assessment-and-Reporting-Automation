@@ -1,6 +1,6 @@
 # 🎓 Student Assessment and Reporting Automation
 
-An end-to-end AI-powered student assessment and grade management system developed using **Python**. The system automates quiz processing, grade calculation, report generation, PDF grade cards, analytics, charts, email notifications, and an interactive Streamlit dashboard.
+An end-to-end  student assessment and grade management system developed using **Python**. The system automates quiz processing, grade calculation, report generation, PDF grade cards, analytics, charts, email notifications, and an interactive Streamlit dashboard.
 
 ---
 
