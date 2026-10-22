@@ -62,7 +62,7 @@ Instead of manually calculating grades and preparing reports, the system:
 ## 📁 Project Structure
 
 ```text
-AI-Student-Assessment-System/
+Student Assessment and Reporting Automation/
 │
 ├── assets/
 ├── charts/
